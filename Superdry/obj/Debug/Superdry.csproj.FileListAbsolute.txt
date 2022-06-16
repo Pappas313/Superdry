@@ -1,0 +1,6 @@
+C:\Users\s.tsisko\source\repos\Superdry\Superdry\bin\Debug\Superdry.exe.config
+C:\Users\s.tsisko\source\repos\Superdry\Superdry\bin\Debug\Superdry.exe
+C:\Users\s.tsisko\source\repos\Superdry\Superdry\bin\Debug\Superdry.pdb
+C:\Users\s.tsisko\source\repos\Superdry\Superdry\obj\Debug\Superdry.exe
+C:\Users\s.tsisko\source\repos\Superdry\Superdry\obj\Debug\Superdry.pdb
+C:\Users\s.tsisko\source\repos\Superdry\Superdry\obj\Debug\Superdry.csprojAssemblyReference.cache
